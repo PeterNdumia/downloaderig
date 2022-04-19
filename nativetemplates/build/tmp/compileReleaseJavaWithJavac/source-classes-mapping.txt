@@ -1,0 +1,2 @@
+com/google/android/ads/nativetemplates/BuildConfig.java
+ com.google.android.ads.nativetemplates.BuildConfig
